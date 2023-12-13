@@ -1,0 +1,4 @@
+Let $\R_+$ be a set of nonnegative real numbers and $\Z_+$ be a set of nonnegative integer numbers. Suppose one is given a data matrix $X \in \R^{m \text{x} n}_+ $  with nonnegative entries and $r \in \Z_+$, a factorization rank. Nonnegative matrix factorization (NMF) is a problem of finding a factorization such that 
+\begin{align}\label{1}
+    X \approx WH
+\end{align} where $W \in \R^{m \text{x} r}_+ $ and $H \in \R^{r \text{x} n}_+$. The factorization rank $r$ is usually chosen such that $r << \frac{mn}{m+n}$. It represents the number of components or basis elements to approximate the original nonnegative matrix; we obtain a compressed representation of the original data using a smaller rank.\\

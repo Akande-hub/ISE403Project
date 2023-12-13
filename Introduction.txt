@@ -1,0 +1,4 @@
+Hello world! I'm here to introduce you to the world of Nonnegative matrix factorization. Be inspire!
+
+
+Extracting the underlying structure within datasets is a significant challenge in data science, and various techniques are employed to address this issue. Nonnegative Matrix Factorization (NMF) is a standard linear high-dimensional reduction technique that has become an active and interesting area of research.
